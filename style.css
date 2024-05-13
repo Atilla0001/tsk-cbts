@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+
+.navbar-nav a {
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 0;
+}
+
+
+.title {
+    color: black;
+}
+
+.flag1 {
+    height: 20px;
+}
+
+.flag2 {
+    height: 25px;
+}
+
+#carouselExampleIndicators {
+    max-height: 640px;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    max-height: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+}
+
+.paragraf {
+    margin-top: 8%;
+
+}
+
+.ptitle {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: -7px;
+}
+
+.ptitle2 {
+    font-size: 35px;
+    font-weight: 500;
+    color: blue;
+}
+
+.ptitle3 {
+    margin-top: 235px;
+    transform: rotate(270deg);
+    transform-origin: left bottom;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.ptitle4 {
+    margin-left: -35px;
+}
+
+.hr1 {
+    transform: rotate(180deg);
+    transform-origin: left top;
+    width: 200px;
+    overflow: hidden;
+}
+
+.espace {
+    background-color: rgb(231, 229, 229);
+    height: 370px;
+    width: 370px;
+}
+
+.form-inline {
+    display: flex;
+    justify-content: center;
+}
+
+.chercher {
+    background-color: rgb(245, 245, 245);
+    margin-top: 6%;
+
+}
+
+.pchercher {
+    text-align: center;
+}
+
+.btn-outline-success {
+    background-color: blue;
+    color: white;
+}
+
+.espace2 {
+    background-color: rgb(231, 229, 229);
+    height: 370px;
+    width: 420px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.rotated-list {
+    transform: rotate(-90deg);
+    transform-origin: left bottom;
+    white-space: nowrap;
+    margin-top: 280px;
+    margin-left: 35px;
+}
+
+.rotated-list li {
+    display: inline-block;
+    padding-top: 55px;
+    margin-right: 40px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.espace3 {
+    background-color: rgb(231, 229, 229);
+    width: 370px;
+}
+
+.beyazDiv {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #fff;
+    padding: 10px;
+    background-color: white;
+    width: 180px;
+    height: 35px;
+}
+.squares{
+margin-top: 30px;
+margin-left: 7%;
+}
+
+.square{
+    height: 80px;
+    width: 85px;
+    background-color: rgb(231, 229, 229);
+    margin-left: 8px;
+display: inline-block;
+
+   
+}
+.square1{
+    background-color: blue;
+}
+.firstCol{
+    background-color: blue;
+}
+.ptitle6{
+    
+    transform: rotate(270deg);
+    transform-origin: left bottom;
+    font-size: 50px;
+    font-weight: 200;
+    margin-left: 120px;
+    margin-top: 235px;
+}
+.ptitle7{
+    
+   margin-left: 80px;
+}
+.colOne{
+background-color: blue;
+}
+.colLeft{
+    background-color: blue;
+}
+.lastCol{
+    background-color: black;
+}
+.colP{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+.colP1{
+    font-weight: 200;
+    margin-top: -30px;
+    color: white;
+    font-size: 40px;
+}
+.colP2{
+    
+    color: white;
+    
+}
+.myDiv{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+    .pInfo{
+        color: white;
+    }
+
+.pInfo2{
+font-size: small;
+}
+.pInfo3{
+    font-weight: bold;
+    font-size: xx-large;
+}
+.pInfo4{
+    margin-top: -30px;
+    font-weight: 300;
+    font-size:  xx-large;
+}
+.pDiv{
+    margin-left: 70px;
+    margin-top: 130px;
+}
+.cont{
+    background-color: rgb(231, 229, 229);
+height: 200px;
+}
+.cols{
+    height: 200px;
+}
+.icons{
+    font-size:  50px;
+    margin: 18px 0 0 50px;
+    color: grey;
+   
+}
+.text{
+      
+       font-size: small;
+       color: grey;
+    
+}
+
+.hr2{
+    width: 200px;
+    margin-left: -25px;
+}
+.oneOfTwo{
+    background-color: rgb(231, 229, 229);
+
+}
+.hr3{
+    color: white;
+    margin-left: -25px;
+}
+.titles{
+    font-weight: bold;
+    color: white;
+    font-size: small;
+}
+
+.line{
+    color: white;
+}
+.texts{
+    color: white;
+    font-size: x-small;
+}
+.Footer2{
+    margin: 75px 0 0 100px;
+}
+.pMessage{
+    color: white;
+    font-size: xx-large;
+}
+.Footer1{
+    margin: 75px 50px 0 0;
+}
+.butonLast{
+   background-color: blue;
+}
